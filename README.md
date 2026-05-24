@@ -19,24 +19,24 @@ A responsive personal portfolio website showcasing my projects, skills, certific
 
 ## 📂 Project Structure
 
+```bash
 portfolio/
 │
 ├── index.html
 ├── styles.css
 ├── script.js
 ├── README.md
+├── .gitignore
+```
 
 ## 🌐 Live Website
 
-Portfolio Link:
-https://yourusername.github.io/portfolio/
+Portfolio Link:  
+https://github.com/Aashritha-MB/PortFolio
 
 ## 📧 Contact
 
-- Email: your-email@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
+- Email: aashrithamb18@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aashritha-17542b294/
+- GitHub: https://github.com/Aashritha-MB
 
-## 📜 License
-
-This project is open source and available under the MIT License.
